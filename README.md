@@ -1,3 +1,3 @@
 # Amazon-Clone
-#Frontend Project
-Created amazon clone using HTML,CSSS and Java Script.
+
+Created amazon clone using HTML,CSSS and Java Script/ Frontend Project
