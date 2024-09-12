@@ -3,5 +3,4 @@
 Created amazon clone using HTML,CSSS and Java Script/ Frontend Project
 
 
- ##Live 
- [@GitHub]https://shrey-111.github.io/Amazon-Clone/
+ - Live Site URL: [@GitHub]https://shrey-111.github.io/Amazon-Clone/
